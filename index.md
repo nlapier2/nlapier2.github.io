@@ -14,7 +14,7 @@ My research interests lie in computational genetics, genomics, and metagenomics,
 
 Important links:
 
-<a href="https://raw.githubusercontent.com/nlapier2/CV/master/CV.pdf">Curriculum Vitae (pdf)</a>
+<a href="https://github.com/nlapier2/CV/raw/master/CV.pdf">Curriculum Vitae (pdf)</a>
   |  <a href="https://scholar.google.com/citations?user=EVMceKUAAAAJ&hl=en">Google Scholar</a>
   |  <a href="https://github.com/nlapier2/">GitHub</a>
   |  <a href="https://www.twitter.com/nlapier2">Twitter</a>
