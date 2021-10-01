@@ -9,7 +9,9 @@ layout: home
 
 Hi there! My name is Nathan LaPierre, and I am currently pursuing a PhD in Computer Science at the University of California, Los Angeles (UCLA). My expected graduation date is June 2022.
 
-My research interests lie in computational genetics, genomics, and metagenomics, where I am focused on developing algorithmic, statistical, and machine learning methods, including deep learning.
+My research interests lie in computational genetics and genomics. In particular, I have worked on robust mendelian randomization, trans-ethnic fine mapping, isoform-aware eQTL mapping, deep learning to improve nanopore read quality, and metagenomic profiling. I am interested in further investigating methods to elucidate causal mechanisms behind complex diseases. 
+
+Since I am graduating in less than a year, I am currently in the market for postdoctoral positions! I have a proven track record of publication and mentorship, as shown in my CV below. I am also friendly, curious, and ambitious, and I try to do my part to keep the lab environment active and positive for all lab members.
 
 
 Important links:
