@@ -6,9 +6,11 @@ permalink: /about/
 
 <p style="padding: 0px;"> <img style="float: right;" src="me.jpg"> </p> 
 
-Hi there! My name is Nathan LaPierre, and I am currently pursuing a PhD in Computer Science at the University of California, Los Angeles (UCLA). My expected graduation date is June 2022. After that, I will begin a postdoctoral position in August 2022.
+Hi there! My name is Nathan LaPierre, and I am currently a Postdoctoral Scholar in the Department of Human Genetics at the University of Chicago, working in the labs of Xin He and Matthew Stephens.
 
-My research interests lie in computational genetics and genomics. In particular, I am interested in using methods from causal inference, CRISPR screens, and functional genomics to elucidate causal mechanisms behind complex diseases. In the past (and sometimes present), I have worked on robust mendelian randomization, cross-population fine mapping, isoform-aware eQTL mapping, deep learning to improve nanopore read quality, and metagenomic profiling. For more details, see the links below.
+My research interests lie in computational genetics and genomics. In particular, I am interested in using methods from causal inference, CRISPR screens, single cell data, and functional genomics to elucidate causal mechanisms behind complex diseases, to investigate causal genotype-phenotype and phenotype-phenotype relationships, and to study regulation of gene expression.
+
+I have recently developed methods for robust mendelian randomization, cross-population fine mapping, and isoform-aware eQTL mapping. Previously, I worked on metagenomic profiling and deep learning to improve nanopore read quality. For more details, see the links below.
 
 Important links:
 
