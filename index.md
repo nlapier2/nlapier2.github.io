@@ -11,7 +11,7 @@ Hi there! My name is Nathan LaPierre, and I am currently a Postdoctoral Scholar 
 
 My research interests lie in computational genetics and genomics. In particular, I am interested in using methods from causal inference, CRISPR screens, single cell data, and functional genomics to elucidate causal mechanisms behind complex diseases, to investigate causal genotype-phenotype and phenotype-phenotype relationships, and to study regulation of gene expression. 
 
-I have recently developmed methods for robust mendelian randomization, cross-population fine mapping, and isoform-aware eQTL mapping. Previously, I worked on metagenomic profiling and deep learning to improve nanopore read quality. For more details, see the links below. 
+I have recently developed methods for robust mendelian randomization, cross-population fine mapping, and isoform-aware eQTL mapping. Previously, I worked on metagenomic profiling and deep learning to improve nanopore read quality. For more details, see the links below. 
 
 
 Important links:
