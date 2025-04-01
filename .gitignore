@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 _hidden_posts/
 vendor/
+.DS_Store
